@@ -2,7 +2,7 @@
 # gui_app.py
 # 圖形化介面啟動程式（修正版）
 
-import tkinter as tk
+
 from tkinter import messagebox
 import pandas as pd
 import os
